@@ -173,9 +173,9 @@ The dataset contains car listings scraped from the Sri Lankan car market with th
 ## 👤 Author
 
 **Dinusha Priyashan**
-Department of Statistics
-University of Colombo
-ST3011 — Statistical Data Analysis
+Department of Statistics,
+University of Colombo/
+ST3011 - Statistical Data Analysis
 
 ---
 
