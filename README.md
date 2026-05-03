@@ -4,7 +4,7 @@
 
 An interactive data analysis and machine learning dashboard for the Sri Lankan second-hand car market, built with **Streamlit** and **Plotly**.
 
-> **ST3011 — Statistical Data Analysis | Individual Project**
+> **ST3011 — Statistical Programming| Individual Project**
 > Dinusha Priyashan | s16798 | Department of Statistics, University of Colombo
 
 ---
@@ -175,7 +175,7 @@ The dataset contains car listings scraped from the Sri Lankan car market with th
 **Dinusha Priyashan**
 Department of Statistics,
 University of Colombo/
-ST3011 - Statistical Data Analysis
+ST3011 - Statistical Programming
 
 ---
 
