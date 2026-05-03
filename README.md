@@ -17,7 +17,7 @@ Car.LK is a web-based dashboard that analyses car listing data from the Sri Lank
 
 ## 🚀 Live App
 
-👉 [View on Streamlit Community Cloud](https://your-app-name.streamlit.app)
+👉 [View on Streamlit Community Cloud](https://st3011dataanalysiscarlk-lfde7nabgnf7yuw9esrxbb.streamlit.app/)
 
 ---
 
